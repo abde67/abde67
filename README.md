@@ -30,7 +30,7 @@
 
 ### 👩‍💻 Professional Summary
 
-Detail-oriented **Full-Stack Web Developer** with a strong focus on building robust, scalable, and user-centric web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**. Passionate about clean code, modern architecture, and delivering performant digital solutions. Actively seeking collaborations on innovative open-source projects.
+ **Full-Stack Web Developer** with a strong focus on building robust, scalable, and user-centric web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**. Passionate about clean code, modern architecture, and delivering performant digital solutions. Actively seeking collaborations on innovative open-source projects.
 
 ---
 
