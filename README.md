@@ -10,15 +10,10 @@
 
   <!-- Typing Effect Subtitle -->
   <a href="https://github.com/abde67">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%26+React+Specialist;TypeScript+%26+Node.js+Developer;Crafting+Modern+%26+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <!-- Real profile info -->
-  <p>
-    🏫 <strong>UOG</strong> &nbsp;|&nbsp; 📍 <strong>Addis Ababa, Ethiopia</strong> &nbsp;|&nbsp; 📦 <strong>14 Public Repos</strong> &nbsp;|&nbsp; 🗓️ <strong>Since Oct 2024</strong>
-  </p>
+  <br/><br/>
 
   <!-- Quick Social Badges -->
   <a href="https://linkedin.com/in/abebech-debebe" target="_blank">
@@ -73,8 +68,8 @@ Detail-oriented **Full-Stack Web Developer** with a strong focus on building rob
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abde67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abde67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
@@ -111,5 +106,7 @@ Detail-oriented **Full-Stack Web Developer** with a strong focus on building rob
 ---
 
 <div align="center">
+
   <sub>⚡ Designed with ❤️ by Abebech Debebe | Crafted for GitHub ⚡</sub>
+
 </div>
