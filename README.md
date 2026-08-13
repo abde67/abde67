@@ -1,14 +1,24 @@
 <div align="center">
 
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:007acc,100:61dafb&height=220&section=header&text=Hi%20there,%20I'm%20Abebech%20Debebe!%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:007acc,100:61dafb&height=180&section=header&text=Hi%20there,%20I'm%20Abebech!%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <!-- Real GitHub Profile Photo -->
+  <img src="https://avatars.githubusercontent.com/u/186893318?v=4" width="130" alt="Abebech Debebe" style="border-radius:50%;" />
+
+  <br/>
 
   <!-- Typing Effect Subtitle -->
   <a href="https://github.com/abde67">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%26+React+Specialist;TypeScript+%26+Node.js+Developer;Crafting+Modern+%26+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
+
+  <!-- Real profile info -->
+  <p>
+    🏫 <strong>UOG</strong> &nbsp;|&nbsp; 📍 <strong>Addis Ababa, Ethiopia</strong> &nbsp;|&nbsp; 📦 <strong>14 Public Repos</strong> &nbsp;|&nbsp; 🗓️ <strong>Since Oct 2024</strong>
+  </p>
 
   <!-- Quick Social Badges -->
   <a href="https://linkedin.com/in/abebech-debebe" target="_blank">
@@ -63,8 +73,8 @@ Detail-oriented **Full-Stack Web Developer** with a strong focus on building rob
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abde67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abde67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
@@ -77,7 +87,7 @@ Detail-oriented **Full-Stack Web Developer** with a strong focus on building rob
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abde67&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abde67&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
