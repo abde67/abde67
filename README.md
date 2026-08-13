@@ -45,12 +45,18 @@
 
 ### 🛠️ Tech Stack & Technologies
 
-<p align="left">
-  <!-- Sleek Tech Stack Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,java,py,git,github,vscode,vercel,postman&perline=8" alt="Tech Stack Icons" />
-  </a>
-</p>
+#### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" alt="Programming Languages" />
+
+<br/>
+
+#### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind" alt="Frameworks & Libraries" />
+
+<br/>
+
+#### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" alt="Tools & Platforms" />
 
 <br/>
 
