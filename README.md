@@ -30,7 +30,8 @@
 
 ### 👩‍💻 Professional Summary
 
-**Full-Stack Web Developer** with a strong focus on building robust, scalable, and user-centric web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**. Passionate about clean code, modern architecture, and delivering performant digital solutions. Actively seeking collaborations on innovative open-source projects.
+Detail-oriented **Full-Stack Web Developer** with a strong focus on building robust, scalable, and user-centric web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**. Passionate about clean code, modern architecture, and delivering performant digital solutions. Actively seeking collaborations on innovative open-source projects.
+
 ---
 
 ### 🛠️ Technical Skills
@@ -69,14 +70,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindahun21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindahun21&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
