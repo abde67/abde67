@@ -21,10 +21,6 @@
   <a href="https://twitter.com/ehit_e" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/abde67">
-    <img src="https://komarev.com/ghpvc/?username=abde67&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-
 </div>
 
 ---
