@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:007acc,100:61dafb&height=220&section=header&text=Hi%20there,%20I'm%20Abebech%20Debebe!%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <!-- Typing Effect Subtitle -->
-  <a href="https://github.com/abde67">
+  <a href="https://github.com/mindahun21">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
@@ -20,8 +20,8 @@
   <a href="https://twitter.com/ehit_e" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/abde67">
-    <img src="https://komarev.com/ghpvc/?username=abde67&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/mindahun21">
+    <img src="https://komarev.com/ghpvc/?username=mindahun21&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 
 </div>
@@ -31,7 +31,6 @@
 ### 👩‍💻 Professional Summary
 
 **Full-Stack Web Developer** with a strong focus on building robust, scalable, and user-centric web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**. Passionate about clean code, modern architecture, and delivering performant digital solutions. Actively seeking collaborations on innovative open-source projects.
-
 ---
 
 ### 🛠️ Technical Skills
@@ -63,12 +62,12 @@
 
 <div align="center">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=abde67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mindahun21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindahun21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindahun21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -77,7 +76,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abde67&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindahun21&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
