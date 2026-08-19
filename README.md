@@ -6,7 +6,7 @@
 
   <!-- Typing Effect Subtitle -->
   <a href="https://github.com/abde67">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-end+/junior+Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
